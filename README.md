@@ -6,7 +6,7 @@
 
 # apt install python
 
-#apt install python2
+# apt install python2
 
 # apt install git
 # git clone https://github.com/Aryanjan002/ARYAN_hacker_crack
